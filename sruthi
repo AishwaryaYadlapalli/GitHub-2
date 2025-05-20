@@ -4,5 +4,5 @@ we are learning CI today
 
 lets automate taska using 
     webhook
-    build periodically
-    poll scm
+    build periodically--based on time
+    poll scm--based on time and changes
