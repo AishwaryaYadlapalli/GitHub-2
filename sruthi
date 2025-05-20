@@ -2,7 +2,4 @@ hey sruthi
 welcome to jenkins class
 we are learning CI today
 
-lets automate taska using 
-    webhook
-    build periodically     based on time
-    poll scm       based on time and changes
+lets automate taska using webhook
